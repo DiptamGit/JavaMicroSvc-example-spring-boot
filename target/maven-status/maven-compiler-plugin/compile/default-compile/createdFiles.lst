@@ -1,0 +1,6 @@
+com\home\diptam\controller\BackendGetterRestController.class
+com\home\diptam\controller\MicroRestController.class
+com\home\diptam\dto\BackendDTO.class
+com\home\diptam\config\SequrityConfig.class
+com\home\diptam\model\User.class
+com\home\diptam\JavaMicroSvc\JavaMicroSvcApplication.class
